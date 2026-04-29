@@ -162,7 +162,7 @@ $utilisateurs = lireUtilisateurs();
 
     <div class="bottom-actions">
         <a href="ajouter-compte.php" class="add-btn">
-            ➕ Ajouter un compte
+             Ajouter un compte
         </a>
 
         <a href="../../index.php" class="back-btn">

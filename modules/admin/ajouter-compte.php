@@ -38,7 +38,7 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
             $utilisateurs[] = $nouveauUser;
             enregistrerUtilisateurs($utilisateurs);
 
-            $message = "Compte créé avec succès 🔥";
+            $message = "Compte créé avec succès ";
         }
     }
 }
