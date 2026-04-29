@@ -1,0 +1,18 @@
+[
+    {
+        "identifiant": "superadmin",
+        "mot_de_passe": "$2y$12$hWARpFgUuK.OnZ10hA5il.0MNaKu9qYls9Umt0F1Q73PGWVfNEHGa",
+        "role": "super_admin",
+        "nom_complet": "Super Administrateur",
+        "date_creation": "2026-04-27",
+        "actif": true
+    },
+    {
+        "identifiant": "Obob",
+        "mot_de_passe": "$2y$12$\/3egM01crSMQ5OPDMWHzhOQa\/nYTLckUbq.9VST7hKqxAWfKe7nSK",
+        "role": "caissier",
+        "nom_complet": "Obed bobo",
+        "date_creation": "2026-04-28",
+        "actif": true
+    }
+]

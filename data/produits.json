@@ -1,0 +1,18 @@
+[
+    {
+        "code_barre": "7622210449283",
+        "nom": "Biscuits oreo",
+        "prix_unitaire_ht": 4000,
+        "date_expiration": "2029-09-02",
+        "quantite_stock": 5,
+        "date_enregistrement": "2026-04-28"
+    },
+    {
+        "code_barre": "2212210449284",
+        "nom": "Lotion Nivea",
+        "prix_unitaire_ht": 12000,
+        "date_expiration": "2028-11-20",
+        "quantite_stock": 19,
+        "date_enregistrement": "2026-04-28"
+    }
+]

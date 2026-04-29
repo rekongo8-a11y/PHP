@@ -1,0 +1,38 @@
+[
+    {
+        "id_facture": "FAC-20260428-145554",
+        "date": "2026-04-28",
+        "heure": "14:55:54",
+        "caissier": "superadmin",
+        "articles": [
+            {
+                "code_barre": "7622210449283",
+                "nom": "Biscuits oreo",
+                "prix_unitaire_ht": 4000,
+                "quantite": 2,
+                "sous_total_ht": 8000
+            }
+        ],
+        "total_ht": 8000,
+        "tva": 1280,
+        "total_ttc": 9280
+    },
+    {
+        "id_facture": "FAC-20260428-164156",
+        "date": "2026-04-28",
+        "heure": "16:41:56",
+        "caissier": "superadmin",
+        "articles": [
+            {
+                "code_barre": "7622210449283",
+                "nom": "Biscuits oreo",
+                "prix_unitaire_ht": 4000,
+                "quantite": 1,
+                "sous_total_ht": 4000
+            }
+        ],
+        "total_ht": 4000,
+        "tva": 640,
+        "total_ttc": 4640
+    }
+]
